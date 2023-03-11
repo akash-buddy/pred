@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import sklearn
+import pipe
 teams = ['Sunrisers Hyderabad',
 'Mumbai Indians',
 'Royal Challengers Bangalore',
